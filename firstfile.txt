@@ -1,1 +1,3 @@
-alok
+#include<iostream>
+using namespace std;
+
